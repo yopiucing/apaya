@@ -1,0 +1,17 @@
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.csproj.AssemblyReference.cache
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.AssemblyInfoInputs.cache
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.AssemblyInfo.cs
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.csproj.CoreCompileInputs.cache
+C:\Users\Zahir\Documents\yescoinputih\bin\Debug\net8.0\yescoin.exe
+C:\Users\Zahir\Documents\yescoinputih\bin\Debug\net8.0\yescoin.deps.json
+C:\Users\Zahir\Documents\yescoinputih\bin\Debug\net8.0\yescoin.runtimeconfig.json
+C:\Users\Zahir\Documents\yescoinputih\bin\Debug\net8.0\yescoin.dll
+C:\Users\Zahir\Documents\yescoinputih\bin\Debug\net8.0\yescoin.pdb
+C:\Users\Zahir\Documents\yescoinputih\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.csproj.Up2Date
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.dll
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\refint\yescoin.dll
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.pdb
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\yescoin.genruntimeconfig.cache
+C:\Users\Zahir\Documents\yescoinputih\obj\Debug\net8.0\ref\yescoin.dll
